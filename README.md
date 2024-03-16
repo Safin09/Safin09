@@ -2,10 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Safin Ahamed Sajid</h1>
 <h3 align="center">A passionate Problem solver from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
+<img align="right" alt="Coding" width="400" src="https://www.gifcen.com/wp-content/uploads/2022/03/luffy-gif-6.gif">
 
-
-<p align="left"> <img src="https://gifdb.com/images/high/programming-angry-punching-keyboard-fw45yh2e39g24ylb.gif" alt="Sfin09" /> </p>
 
 - 🔭 I’m currently working on *Event Management System*
 
