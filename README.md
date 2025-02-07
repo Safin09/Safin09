@@ -5,9 +5,9 @@
 <img align="right" alt="Coding" width="400" src="https://www.gifcen.com/wp-content/uploads/2022/03/luffy-gif-6.gif">
 
 
-- 🔭 I’m currently working on *Event Management System*
+- 🔭 I’m currently working on *DOKAAN-A mobile based ERP for all low to mid lavel shop owner*
 
-- 🌱 I’m currently learning *C++*
+- 🌱 I’m currently learning *javascript*
 
 - 👨‍💻 All of my projects are available at [Repo](https://github.com/Safin09?tab=repositories)
 
